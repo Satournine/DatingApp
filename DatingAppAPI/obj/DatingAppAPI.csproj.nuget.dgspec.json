@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppAPI\\DatingAppAPI.csproj": {}
+    "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppApi\\DatingAppAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppAPI\\DatingAppAPI.csproj": {
+    "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppApi\\DatingAppAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppAPI\\DatingAppAPI.csproj",
+        "projectUniqueName": "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppApi\\DatingAppAPI.csproj",
         "projectName": "DatingAppAPI",
-        "projectPath": "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppAPI\\DatingAppAPI.csproj",
+        "projectPath": "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppApi\\DatingAppAPI.csproj",
         "packagesPath": "C:\\Users\\tunao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppAPI\\obj\\",
+        "outputPath": "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tunao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -49,6 +53,10 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.9, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.3, )"
             }
           },
           "imports": [
