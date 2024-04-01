@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppApi\\DatingAppAPI.csproj": {}
+    "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppAPI\\DatingAppAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppApi\\DatingAppAPI.csproj": {
+    "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppAPI\\DatingAppAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppApi\\DatingAppAPI.csproj",
+        "projectUniqueName": "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppAPI\\DatingAppAPI.csproj",
         "projectName": "DatingAppAPI",
-        "projectPath": "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppApi\\DatingAppAPI.csproj",
+        "projectPath": "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppAPI\\DatingAppAPI.csproj",
         "packagesPath": "C:\\Users\\tunao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppApi\\obj\\",
+        "outputPath": "C:\\Users\\tunao\\Desktop\\FullWeb\\Udemy\\DatingApp\\DatingAppAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tunao\\AppData\\Roaming\\NuGet\\NuGet.Config",
